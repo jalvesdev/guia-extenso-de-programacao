@@ -33,7 +33,7 @@
 🔖 https://couleur.io (Um ferramenta de cores simples para ajudá-lo a encontrar uma boa paleta de cores para seu projeto da web) <br>
 🔖 https://uideck.com (Modelo de página de destino HTML gratuitos e premium, temas de bootstrap, modelos de React, modelos de Tailwind, modelos de site HTML, e kits de interface de usúario) <br>
 🔖 https://naevner.com (Descrição de cores em linguagem natural, gerador de códigos em cores hexadecimais) <br>
-🔖 https://app.haikei.app/ (Gerador de formas padrões e backgrouds em SVG)
+🔖 [haikei](https://app.haikei.app/) Gerador de formas padrões e backgrouds em SVG
 🔖 https://hypercolor.dev/ (Gerador de gradientes)
 🔖 https://webframe.xyz/ (Site serve como fonte de inspiração, Você pode ter um projeto e estar preocupado com como ele pode ficar. Como o framework deveria ser, o design que você poderia adicionar. Veja nesse site maneiras incríveis de tornar o seu site mais atrativo)
 
