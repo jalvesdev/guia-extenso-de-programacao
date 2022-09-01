@@ -4,146 +4,139 @@
 
 ## 📚 SITES PARA ESTUDAR PROGRAMAÇÃO:
 
-🔖 ROCKETSEAT: https://www.rocketseat.com.br <br>
-🔖 DIO: https://www.digitalinnovation.one <br>
-🔖 Curso em video: www.youtube.com/c/CursoemVídeo <br>
-🔖 Udemy: https://www.udemy.com/ <br>
-🔖 HackerRank: https://www.hackerrank.com/ <br>
-🔖 Hackereath: https://www.hackerearth.com/ <br>
-🔖 Coderbyte: https://coderbyte.com/ <br>
-🔖 Coderchef: https://www.codechef.com/ <br>
-🔖 W3resource: https://www.w3resource.com/ <br>
-🔖 Cousera: https://pt.coursera.org/ <br>
-🔖 Codepen: https://codepen.io/ <br>
-🔖 Codementor: https://www.codementor.io/ <br>
-🔖 FreeCodeCamp: https://www.freecodecamp.org/ <br>
-🔖 GeeksForGeeks: https://www.geeksforgeeks.org/ <br>
-🔖 W3Schools: https://www.w3schools.com/ <br>
-🔖 Khan Academy: https://pt.khanacademy.org/ <br>
-🔖 Udacity: https://www.udacity.com/ <br>
-🔖 Sololearn: https://www.sololearn.com/ <br>
-🔖 EdX: https://www.edx.org/ <br>
-🔖 Treehouse: https://teamtreehouse.com/ <br>
-🔖 Tutorialspoint: https://www.tutorialspoint.com/ <br>
-🔖 Cod3r: https://cod3r.com.br/ <br>
+🔖 [Formação Full Stack Javascript](https://go.hotmart.com/N73932472N) Sua jornada começa aqui! Curso completo, passo a passo, totalmente voltado para iniciantes, com acesso vitalício, atualizado constantemente, e que vai te preparar para o mercado de trabalho. <br>
+🔖 [ROCKETSEAT](https://www.rocketseat.com.br) Nossa missão é capacitar pessoas que buscam se profissionalizar na programação independente do seu momento ou nível de conhecimento.  <br>
+🔖 [DIO](https://www.digitalinnovation.one) Domine as tecnologias utilizadas pelas empresas mais inovadoras do mundo e encare seu novo desafio profissional, evoluindo em comunidade com os melhores experts.<br>
+🔖 [Curso em video](https://www.youtube.com/c/CursoemV%C3%ADdeo) Cursos em vídeo-aulas totalmente gratuitos, criados pelo Professor Gustavo Guanabara. <br>
+🔖 [Udemy](https://www.udemy.com/) O marketplace líder global para ensino e aprendizado.<br>
+🔖 [HackerRank](https://www.hackerrank.com/) Jopin over 18 million developers, practice coding skills, prepare for interviews and get hired. <br>
+🔖 [Hackereath](https://www.hackerearth.com/) Matching great developers with world-class companies.<br>
+🔖 [Coderbyte](https://coderbyte.com) The industry’s #1 website for technical interview prep, coding challenges, and expert videos. <br>
+🔖 [Coderchef](https://www.codechef.com)  <br>
+🔖 [W3resource](https://www.w3resource.com/) <br>
+🔖 [Cousera] https://pt.coursera.org/ Comece, avance ou troque de carreira com mais de 5 mil cursos, Certificações Profissionais e diplomas de universidades e empresas de nível mundial. <br>
+🔖 [Codementor](https://www.codementor.io/) Find a developer for
+live mentorship & freelance projects <br>
+🔖 [FreeCodeCamp](https://www.freecodecamp.org/) Learn to code — for free. Build projects. Earn certifications.<br>
+🔖 [GeeksForGeeks](https://www.geeksforgeeks.org/) Courses, tutorials, jobs, practice. <br>
+🔖 [W3Schools](https://www.w3schools.com/) Learn to Code
+With the world's largest web developer site. <br>
+🔖 [Khan Academy](https://pt.khanacademy.org/) Somos uma organização sem fins lucrativos com a missão de oferecer uma educação gratuita de alta qualidade para qualquer pessoa, em qualquer lugar. <br>
+🔖 [Udacity](https://www.udacity.com/) Accelerate your career with job-ready digital skills.<br>
+🔖 [Sololearn](https://www.sololearn.com/) Courses designed by experts with real-world practice. Join our global community. It's free. <br>
+🔖 [EdX] (https://www.edx.org/) Start learning from
+the world’s best institutions <br>
+🔖 [Treehouse](https://teamtreehouse.com/) Learn to code, design, and more—all on your own time <br>
+🔖 [Tutorialspoint](https://www.tutorialspoint.com/) Simply Easy Learning at your fingertips<br>
 
 ## 📚 SITES PARA DESENVOLVEDOR FRONT-END:
 
-🔖 https://shapedividers.com (Gera divisores de formas verticais, responsivos, e animados facilmente com este gerador de divisores de formas SVG) <br>
-🔖 https://couleur.io (Um ferramenta de cores simples para ajudá-lo a encontrar uma boa paleta de cores para seu projeto da web) <br>
-🔖 https://uideck.com (Modelo de página de destino HTML gratuitos e premium, temas de bootstrap, modelos de React, modelos de Tailwind, modelos de site HTML, e kits de interface de usúario) <br>
-🔖 https://naevner.com (Descrição de cores em linguagem natural, gerador de códigos em cores hexadecimais) <br>
-🔖 [haikei](https://app.haikei.app/) Gerador de formas padrões e backgrouds em SVG
-🔖 [hypercolor](https://hypercolor.dev/) Gerador de gradientes
-🔖 [webframe](https://webframe.xyz/) Site serve como fonte de inspiração, Você pode ter um projeto e estar preocupado com como ele pode ficar. Como o framework deveria ser, o design que você poderia adicionar. Veja nesse site maneiras incríveis de tornar o seu site mais atrativo
+🔖 [Shapedividers](https://shapedividers.com) Gera divisores de formas verticais, responsivos, e animados facilmente com este gerador de divisores de formas SVG <br>
+🔖 [Couleur](https://couleur.io) Um ferramenta de cores simples para ajudá-lo a encontrar uma boa paleta de cores para seu projeto da web <br>
+🔖 [UIdeck](https://uideck.com) Modelo de página de destino HTML gratuitos e premium, temas de bootstrap, modelos de React, modelos de Tailwind, modelos de site HTML, e kits de interface de usúario <br>
+🔖 [daevner](https://naevner.com) Descrição de cores em linguagem natural, gerador de códigos em cores hexadecimais <br>
+🔖 [haikei](https://app.haikei.app/) Gerador de formas padrões e backgrouds em SVG<br>
+🔖 [hypercolor](https://hypercolor.dev/) Gerador de gradientes<br>
+🔖 [webframe](https://webframe.xyz/) Site serve como fonte de inspiração, Você pode ter um projeto e estar preocupado com como ele pode ficar. Como o framework deveria ser, o design que você poderia adicionar. Veja nesse site maneiras incríveis de tornar o seu site mais atrativo<br>
 
 ## 📚 SITES PARA APRENDER A PROGRAMAR JOGANDO:
 
-🔖 Code Combat: https://br.codecombat.com/ <br>
-🔖 CheckiO: https://checkio.org <br>
-🔖 Codewars: https://codewars.com <br>
-🔖 Schemaverse: https://schemaverse.com <br>
-🔖 Code Monkey: https://codemonkey.com <br>
-🔖 CodinGame: https://codingame.com <br>
+🔖 [Code Combat](https://br.codecombat.com/) Learn to Code Through the Power of Play <br>
+🔖 [CheckiO](https://checkio.org) Coding games for beginners and advanced programmers where you can improve your coding skills by solving engaging challenges and fun task using Python and TypeScript <br>
+🔖 [Codewars](https://codewars.com) Improve your development skills by training with your peers on code kata that continuously challenge and push your coding practice. <br>
+🔖 [Schemaverse](https://schemaverse.com) The Schemaverse is a space-based strategy game implemented entirely within a PostgreSQL database. Compete against other players using raw SQL commands to command your fleet. Or, if your PL/pgSQL-foo is strong, wield it to write AI and have your fleet command itself!<br>
+🔖 [Code Monkey](https://codemonkey.com) Coding for kids, Introducing programming games for the next generation.<br>
+🔖 [CodinGame](https://codingame.com) The new way to improve your programming skills while having fun and getting noticed <br>
 
 ## 📚 TEMPLATES HTML GRATUITOS: 
 
-🔖 https://bootsstrapmade.com <br>
-🔖 https://w3layouts.com <br>
-🔖 https://onepagelove.com <br>
+🔖 [W3Layouts](https://w3layouts.com) Multipurpose Bootstrap Templates and WordPress Themes <br>
+🔖 [One Page Love](https://onepagelove.com) One Page websites, templates and resources
+Get Inspiration, find Templates or browse Resources.<br>
 
 ## 📚 SITES PARA APRENDER OU TREINAR CSS:
 
-🔖 https://cssgridgarden.com <br>
-🔖 https://flukeout.github.io <br>
-🔖 https://flexboxfroggy.com <br>
-🔖 https://flexboxdefense.com <br>
-🔖 https://100dayscss.com <br>
-🔖 https://cssbattle.dev <br>
-🔖 https://css-tricks.com/guides/ <br>
-🔖 https://csshell.dev/ (Coleção de erros comuns de CSS e como corrigi-los) <br>
+🔖 [CSS Grid Garden](https://cssgridgarden.com) Site par treinar grid layout através de desafios<br>
+🔖 [flexbox-froggy](https://flexboxfroggy.com) Semelhante ao grid garden, mas para flexbox<br>
+🔖 [CssDiner](https://flukeout.github.io) desafios de css <br>
+🔖 [Flexbox defense](https://flexboxdefense.com) use css para posicionar torres e se proteger de hordas.<br>
+🔖 [100 days css](https://100dayscss.com) a cada uma tarefa de css, consegue completar todos? <br>
+🔖 [CSS Battle](https://cssbattle.dev) Use your CSS skills to replicate targets with smallest possible code. Feel free to check out the targets below and put your CSS skills to test.<br>
+🔖 [CSS-tricks](https://css-tricks.com/guides/) tutoriais de css<br>
+🔖 [CSS hell](https://csshell.dev/) Coleção de erros comuns de CSS e como corrigi-los <br>
 
 ## 📚 GERADORES DE CSS:
 
-🔖 https://neumorphism.io <br>
-🔖 https://9elements.github.io/fancy-border-radius <br>
-🔖 https://waitanimate.wstone.io <br>
-🔖 https://www.bestcssbuttongenerator.com <br>
-🔖 https://html-css-js.com/css/generator/ <br>
+🔖 [Neumorphism.io](https://neumorphism.io) Generate Soft-UI CSS code <br>
+🔖 [Fancy Border Radius](https://9elements.github.io/fancy-border-radius) o nome já diz tudo <br>
+🔖 [Wait Anime](https://waitanimate.wstone.io) pausa para animações CSS <br>
+🔖 [CSS button Generator](https://www.bestcssbuttongenerator.com) gerador de botões em CSS <br>
+🔖 [CSS Code Generator](https://html-css-js.com/css/generator/) gera código css para diversos efeitos <br>
 
 ## 📚 SITE PARA BUSCAR VAGAS REMOTAS:
 
-🔖 https://remoteok.io  <br>
-🔖 https://hired.com  <br>
-🔖 https://bergamot.io <br>
-🔖 https://justremote.co <br>
-🔖 https://workingnomads.co <br>
+🔖 [Remote Ok](https://remoteok.io)  <br>
+🔖 [Hired_](https://hired.com)  <br>
+🔖 [Just Remote](https://justremote.co) <br>
+🔖 [Working Nomads](https://workingnomads.co) <br>
 
 ## 📚 ÓTIMOS SITES PARA DESENVOLVEDORES:
 
-🔖 https://internxt.com/ <br>
-🔖 https://motion.dev/  <br>
-🔖 https://hokusai.app/ <br>
-🔖 https://url-shortene-r.herokuapp.com/ <br>
-🔖 https://hiddentools.dev <br>
-🔖 https://devhints.io <br>
-🔖 https://caiuse.com <br>
-🔖 https://bundlephobia.com <br>
+🔖 [Internext](https://internxt.com/) Armazenamento de dados na nuvem<br>
+🔖 [Hokusai](https://hokusai.app/) API de NFT <br>
+🔖 [Rico's cheatsheets](https://devhints.io) coleção de cheatsheets <br>
 
 ## 📚 FERRAMENTAS PARA DEV WEB:
 
-🔖 https://www.minimamente.com/project/magic/ <br>
-🔖 https://jonsuh.com/hamburgers/ <br>
-🔖 https://ianlunn.github.io/Hover/ <br>
+🔖 [Codepen](https://codepen.io/) CodePen is a social development environment. At its heart, it allows you to write code in the browser, and see the results of it as you build. A useful and liberating online code editor for developers of any skill, and particularly empowering for people learning to code. We focus primarily on front-end languages like HTML, CSS, JavaScript, and preprocessing syntaxes that turn into those things.<br>
+🔖 [Motion One](https://motion.dev/) Biblioteca de Animações <br>
+🔖 [Minimamente magic](https://www.minimamente.com/project/magic/) gerador de animações. <br>
+🔖 [hamburgers](https://jonsuh.com/hamburgers/) gerador de animções em menu do tipo hamburguer <br>
+🔖 [Hover](https://ianlunn.github.io/Hover/) exemplos de animações para hover<br>
 
 ## 📚 MELHORES DISTROS LINUX PARA PROGRAMADORES:
 
-🔖 Pop!_Os - https://pop.system76.com/ <br> 
-🔖 Arch Linux - https://archlinux.org/ <br>
-🔖 Debian - https://www.debian.org/ <br>
-🔖 Ubuntu - https://ubuntu.com/ <br>
-🔖 Fedora - https://getfedora.org/pt_BR/ <br>
-🔖 Linux Mint - https://linuxmint.com/ <br>
-🔖 OpenSUSE - https://www.opensuse.org <br>
-🔖 Kali Linux - https://www.kali.org  <br>
-🔖 KDE Neon - https://www.neon.kde.org  <br>
-🔖 Solus - https://www.getsol.us <br>
-🔖 Tails - https://www.tails.boum.org <br>
+🔖 [Ubuntu](https://ubuntu.com/) <br>
+🔖 [Pop!_Os](https://pop.system76.com/) <br> 
+🔖 [Arch Linux](https://archlinux.org/) <br>
+🔖 [Debian](https://www.debian.org/) <br>
+🔖 [Fedora](https://getfedora.org/pt_BR/) <br>
+🔖 [Linux Mint](https://linuxmint.com/) <br>
+🔖 [OpenSUSE](https://www.opensuse.org) <br>
+🔖 [Kali Linux](https://www.kali.org)  <br>
+🔖 [Solus](https://www.getsol.us) <br>
 
 ## 📚 BIBLIOTECAS JAVASCRIPT:
 
-🔖 ApexCharts: https://apexcharts.com/ <br>
-🔖 Particles.js: https://vincentgarreau.com/particles.js/ <br>
-🔖 ScrollMagic: https://scrollmagic.io/ <br>
+🔖 [ApexCharts](https://apexcharts.com/) Modern & Interactive Open-source Charts<br>
+🔖 [Particles.js](https://vincentgarreau.com/particles.js/) <br>
+🔖 [ScrollMagic](https://scrollmagic.io/) <br>
 
 ## 📚 7 FERRAMENTAS PARA QUE TODO DEV PRECISA CONHECER:
 
-🔖 Figma: ferramenta para design de interfaces. <br>
-🔖 Insomnia: é um API Client, uma ferramenta para fazer testes de API's. <br>
-🔖 Rive: ferramenta colaborativa de animação para apps, jogos e sites. <br>
-🔖 CloudCraft: plataforma com foco em criar desenhos de arquiteturas AWS. <br>
-🔖 BundlePhobia: site para descobrir o custo de adicionar um npm package no seu pacote. <br>
-🔖 Font Flipper: Tinder das fontes, basta apertar X caso não goste e ❤ se você gostar, adicione aos favoritos já com o nome da fonte e faça o download pelo Google fonts. <br>
-🔖 VisBug: é uma extensão de Chrome, criada pelo google, ferramenta de design que te permite mudar o layout das páginas da web desde o estilo de fontes até a posição dos elementos. <br>
-🔖 ThunderClient: é um Rest API Client totalmente leve e compatível com Visual Studio Code. Idêntico ao Postman, ele serve para realizar testes com nossas requisções HTTP. <br>
+🔖 [Figma](https://www.figma.com/): ferramenta para design de interfaces. <br>
+🔖 [Insomnia](https://insomnia.rest/download) é um API Client, uma ferramenta para fazer testes de API's. <br>
+🔖 [Rive](https://rive.app/) ferramenta colaborativa de animação para apps, jogos e sites. <br>
+🔖 [CloudCraft](https://www.cloudcraft.co/) plataforma com foco em criar desenhos de arquiteturas AWS. <br>
+🔖 [BundlePhobia](https://bundlephobia.com/): site para descobrir o custo de adicionar um npm package no seu pacote. <br>
+🔖 [ThunderClient](https://www.thunderclient.com/): é um Rest API Client totalmente leve e compatível com Visual Studio Code. Idêntico ao Postman, ele serve para realizar testes com nossas requisções HTTP. <br>
 
 ## 📚 SITES PARA PRATICAR UI/UX:
 
-🔖 https://sharpen.design/ <br>
-🔖 https://www.dailyui.co/ <br>
-🔖 https://uxtools.co/challenges <br>
-🔖 https://drawerrr.com/challenge <br>
-🔖 https://www.uplabs.com/challenges <br>
+🔖 [Sharpen](https://sharpen.design/) <br>
+🔖 [Daily UI](https://www.dailyui.co/) desafios de UI <br>
+🔖 [UX Challenges](https://uxtools.co/challenges) desafios de UX <br>
+🔖 [Drawerr](https://drawerrr.com/challenge) A Procut Design Challenge <br>
+🔖 [Uplabs](https://www.uplabs.com/challenges) <br>
 
 ## 📚 FERRAMENTAS PARA HOSPEDAS SEU SITE DE GRAÇA: 
 
-🔖 https://www.netlify.com/ <br>
-🔖 https://pages.github.com/ <br>
-🔖 https://www.heroku.com/ <br>
-🔖 https://www.awardspace.com/ <br>
-🔖 https://byet.host/ <br>
-🔖 https://vercel.com/ <br>
-🔖 https://infinityfree.net/ <br>
+🔖 [Netlify](https://www.netlify.com/) <br>
+🔖 [Vercel](https://vercel.com/) <br>
+🔖 [Github Pages](https://pages.github.com/) <br>
+🔖 [Awardspace](https://www.awardspace.com/) <br>
+🔖 [Byte Host](https://byet.host/) <br>
+🔖 [Infinity free](https://infinityfree.net/) <br>
 
 ## 📚 SITES PARA INSPIRAR O SEU DESENVOLVIMENTO: 
 
@@ -153,7 +146,6 @@
 🔖 https://br.pinterest.com/ <br>
 🔖 https://www.deviantart.com/ <br>
 🔖 https://www.lapa.ninja/ <br>
-🔖 https://hyperpixel.io/ <br>
 🔖 https://onepagelove.com/ <br>
 🔖 https://onepagelove.com/boring-avatars <br>
 🔖 https://land-book.com/ <br>
@@ -168,55 +160,56 @@
 
 ## 📚 SITES PARA BAIXAR E ENCONTRAR FONTES:
 
-🔖 Adobe Fonts: https://fonts.adobe.com/  <br>
-🔖 Google fonts: https://fonts.google.com/ <br>
-🔖 Dafont: https://www.dafont.com/pt/ <br>
-🔖 NetFontes: https://www.netfontes.com.br/ <br>
-🔖 Urbanfonts: https://www.urbanfonts.com/pt/ <br>
-🔖 Befonts: https://befonts.com/ <br>
-🔖 Fonts space: https://www.fontspace.com/ <br>
-🔖 1001 fonts: https://www.1001fonts.com/ <br>
-🔖 Abstract fonts: https://www.abstractfonts.com/ <br>
-🔖 Fontget: https://www.fontget.com/ <br>
+🔖 [Google fonts](https://fonts.google.com/) <br>
+🔖 [Adobe Fonts](https://fonts.adobe.com/)  <br>
+🔖 [Dafont](https://www.dafont.com/pt/) <br>
+🔖 [NetFontes](https://www.netfontes.com.br/) <br>
+🔖 [Urbanfonts](https://www.urbanfonts.com/pt/) <br>
+🔖 [Befonts](https://befonts.com/) <br>
+🔖 [Fonts space](https://www.fontspace.com/) <br>
+🔖 [1001 fonts](https://www.1001fonts.com/) <br>
+🔖 [Abstract fonts](https://www.abstractfonts.com/) <br>
+🔖 [Fontget](https://www.fontget.com/) <br>
 
 ## 📚 SITE DE DE PALETAS DE CORES:
 
-🔖 Paletton: https://paletton.com/ <br>
-🔖 Adobe Color: https://color.adobe.com/pt/create/color-wheel/ <br>
-🔖 Color Hunt: https://colorhunt.co/ <br>
-🔖 Happy Hues: https://www.happyhues.co/ <br>
-🔖 Coolors: https://coolors.co/ <br>
-🔖 Gradient Hunt: https://gradienthunt.com/ <br>
-🔖 Flat UI Colors: https://flatuicolors.com/ <br>
-🔖 Grabient: https://www.grabient.com/ <br>
-🔖 Pigment: https://pigment.shapefactory.co/ <br>
-🔖 WebGradient: https://webgradients.com/ <br>
+🔖 [ColorSpace](https://mycolor.space/)<br>
+🔖 [Paletton](https://paletton.com/) <br>
+🔖 [Adobe Color](https://color.adobe.com/pt/create/color-wheel/) <br>
+🔖 [Color Hunt](https://colorhunt.co/) <br>
+🔖 [Happy Hues](https://www.happyhues.co/) <br>
+🔖 [Coolors](https://coolors.co/) <br>
+🔖 [Gradient Hunt](https://gradienthunt.com/) <br>
+🔖 [Flat UI Colors](https://flatuicolors.com/) <br>
+🔖 [Grabient](https://www.grabient.com/) <br>
+🔖 [Pigment](https://pigment.shapefactory.co/) <br>
+🔖 [WebGradient](https://webgradients.com/) <br>
 
 ## 📚 LISTA DE ILUSTRAÇÕES:
 
-🔖 DrawKit: https://www.drawkit.io/ <br>
-🔖 Humaaans: https://www.humaaans.com/ <br>
-🔖 Open Doodle: https://www.opendoodles.com/ <br>
-🔖 Storyset: https://storyset.com/ <br>
-🔖 unDraw: https://undraw.co/ <br>
-🔖 404 Illustrations (by kapwing): https://www.kapwing.com/404-illustrations/ <br>
-🔖 404 Illustrations: https://error404.fun/ <br>
-🔖 Ouch: https://icons8.com.br/illustrations/ <br>
-🔖 Delesing: https://delesign.com/free-designs/graphics/ <br>
-🔖 Pixeltru: https://www.pixeltrue.com/free-illustrations/ <br>
+🔖 [DrawKit](https://www.drawkit.io/) <br>
+🔖 [Humaaans](https://www.humaaans.com/) <br>
+🔖 [Open Doodle](https://www.opendoodles.com/) <br>
+🔖 [Storyset](https://storyset.com/) <br>
+🔖 [unDraw](https://undraw.co/) <br>
+🔖 [404 Illustrations - by kapwing](https://www.kapwing.com/404-illustrations/) <br>
+🔖 [404 Illustrations](https://error404.fun/) <br>
+🔖 [Ouch](https://icons8.com.br/illustrations/) <br>
+🔖 [Delesing](https://delesign.com/free-designs/graphics/) <br>
+🔖 [Pixeltru](https://www.pixeltrue.com/free-illustrations/) <br>
 
 ## 📚 SITE DE ICONES: 
 
-🔖 DrawKit: https://www.drawkit.io/free-icons/ <br>
-🔖 Eva Icons: https://akveo.github.io/eva-icons/#/ <br>
-🔖 Feather: https://feathericons.com/ <br>
-🔖 Font Awesome: https://fontawesome.com/ <br>
-🔖 Heroicons: https://heroicons.dev/ <br>
-🔖 Iconsvg: https://iconsvg.xyz/ <br>
-🔖 Icons8: https://icons8.com/line-awesome/ <br>
-🔖 Shape: https://shape.so/ <br>
-🔖 Flaticon: https://www.flaticon.com/br/ <br>
-🔖 Bootstrap icons: https://icons.getbootstrap.com/ <br>
+🔖 [Font Awesome](https://fontawesome.com/) <br>
+🔖 [Bootstrap icons](https://icons.getbootstrap.com/) <br>
+🔖 [DrawKit](https://www.drawkit.io/free-icons/) <br>
+🔖 [Eva Icons](https://akveo.github.io/eva-icons/#/) <br>
+🔖 [Feather](https://feathericons.com/) <br>
+🔖 [Heroicons](https://heroicons.dev/) <br>
+🔖 [Iconsvg](https://iconsvg.xyz/) <br>
+🔖 [Icons8](https://icons8.com/line-awesome/) <br>
+🔖 [Shape](https://shape.so/) <br>
+🔖 [Flaticon](https://www.flaticon.com/br/) <br>
 
 ## 📚 CANAIS DO YOUTUBE COM CONTEÚDO GRATUITO:
 
