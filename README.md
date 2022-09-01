@@ -213,86 +213,79 @@ Get Inspiration, find Templates or browse Resources.<br>
 
 ## 📚 CANAIS DO YOUTUBE COM CONTEÚDO GRATUITO:
 
-🔖 https://youtube.com/c/baltaio <br>
-🔖 https://youtube.com/c/CodAffection <br>
-🔖 https://youtube.com/c/codedamn <br>
-🔖 https://youtube.com/c/EspecializatiBr <br>
-🔖 https://youtube.com/channel/UCoqYHkQy8q5nEMv1gkcZgSw <br>
-🔖 https://youtube.com/c/MichelliBrito <br>
-🔖 https://youtube.com/c/TheNetNinja <br>
-🔖 https://youtube.com/c/ThiengoCalopsita <br>
-🔖 https://youtube.com/c/TraversyMedia <br>
-🔖 https://youtube.com/c/MangoDeveloper <br>
-🔖 https://youtube.com/c/RocketSeat <br>
-🔖 https://youtube.com/c/RodrigoBranas <br>
-🔖 https://youtube.com/c/Academind <br>
-🔖 https://youtube.com/user/saimon1924 <br>
-🔖 https://youtube.com/c/AngularFirebase <br>
-🔖 https://youtube.com/c/Freecodecamp <br>
-🔖 https://youtube.com/c/MTechViral <br>
-🔖 https://youtube.com/c/IgorRemas <br>
-🔖 https://youtube.com/c/SantosEnoque <br>
-🔖 https://youtube.com/channel/UCjBxAm226XZvgrkO-JyjJgQ <br>
-🔖 https://youtube.com/c/DesignCourse <br>
-🔖 https://youtube.com/c/Londonappbrewery <br>
-🔖 https://youtube.com/c/eddydn71 <br>
-🔖 https://www.youtube.com/user/cursosemvideo <br>
-🔖 https://youtube.com/c/ThizerAplicativos <br>
-🔖 https://youtube.com/c/loianegroner <br>
-🔖 https://youtube.com/c/CanalDotNET <br>
-🔖 https://youtube.com/c/ProtocoloAlterado <br>
-🔖 https://youtube.com/c/DevSoutinho <br>
-🔖 https://youtube.com/c/FabioAkita1990 <br>
-🔖 https://www.youtube.com/channel/UCwn-9qpyukBnuA3eB-3F0Sg <br>
-🔖 https://www.youtube.com/c/ProgramadorREAL <br>
-🔖 https://www.youtube.com/c/professorramos/ <br>
-🔖 https://www.youtube.com/c/RoboticapraticaBr/ <br>
-🔖 https://www.youtube.com/c/zero1ti/ <br>
-🔖 https://www.youtube.com/user/RafaellaBallerini/ <br>
-🔖 https://www.youtube.com/channel/UCB12jjYsYv-eipCvBDcMbXw <br>
-🔖 https://www.youtube.com/channel/UCjF0OccBT05WxsJb2zNkL4g <br>
-🔖 https://www.youtube.com/c/Descompila/ <br>
-🔖 https://www.youtube.com/c/UnicornCoder/ <br>
-🔖 https://www.youtube.com/c/KaSolutionOficial/ <br>
-🔖 https://www.youtube.com/c/CanalTekZoom/ <br>
-🔖 https://www.youtube.com/c/BoniekyLacerdaLeal <br>
-🔖 https://www.youtube.com/c/Programadorbr <br>
-🔖 https://www.youtube.com/c/ZUPIT/ <br>
-🔖 https://www.youtube.com/c/BeerandCode/ <br>
-🔖 https://www.youtube.com/c/AttekitaDev/ <br>
-🔖 https://www.youtube.com/c/WebDevSimplified/ <br>
-🔖 https://www.youtube.com/c/Alura/ <br>
-🔖 https://www.youtube.com/c/EscolaFrontend/ <br>
-🔖 https://www.youtube.com/c/Academind/ <br>
-🔖 https://www.youtube.com/c/RodrigoBranas/ <br>
+🔖 [Balta.io](https://youtube.com/c/baltaio) balta.io é uma ferramenta completa para auxiliar você em seu caminho para se tornar um desenvolvedor de respeito. Com mais de 80 cursos direcionados, oferecemos um conteúdo alinhado ao mercado para o caminho do sucesso!  <br>
+🔖 [CodAffection](https://youtube.com/c/CodAffection) This channel is all about teaching and inspiring developers to build applications/ websites 
+in various technologies like Angular, React, NodeJS, Asp.Net Core, JavaScript, SQL, Python etc.<br>
+🔖 [codedamn](https://youtube.com/c/codedamn) Hi! I create videos mostly related to programming, and sometimes simple hacks and tricks to survive on internet! You'll find me covering a variety of topics I love to learn in my free time, mostly revolving around JavaScript. <br>
+🔖 [EspecializaTi](https://youtube.com/c/EspecializatiBr) Cursos Online de Desenvolvimento.  <br>
+🔖 [Jose Carlos Macoratti](https://youtube.com/channel/UCoqYHkQy8q5nEMv1gkcZgSw) Vídeo Aulas sobre a plataforma .NET e tecnologias web: C# , VB .NET , ASP .NET , ASP .NET MVC, ASP .NET Core, Entity Framework,  Xamarin Forms, Xamarin Android, Angular, ADO .NET , SQL,  Node,  etc.<br>
+🔖 [Michelli Brito](https://youtube.com/c/MichelliBrito) Neste canal apresento conteúdos de programação, arquitetura de software e carreira em TI que trago do meu dia a dia de trabalho e também dos treinamentos corporativos que ministro, sempre apresentando temas e tecnologias alinhadas com o esperado pelo mercado, principalmente da stack com maior demanda atualmente: Microservices, Java com Spring e Angular. <br>
+🔖 [The Net Ninja] https://youtube.com/c/TheNetNinja Black-belt your web development skills.  <br>
+🔖 [Traversy Media](https://youtube.com/c/TraversyMedia) Traversy Media features the best online web development and programming tutorials for all of the latest web technologies from the building blocks of HTML, CSS & JavaScript to frontend frameworks like React and Vue to backend technologies like Node.js, Python and PHP <br>
+🔖 [Rocketseat](https://youtube.com/c/RocketSeat) Mais do que uma plataforma de educação em tecnologia, somos uma comunidade incrível de programadores em busca do próximo nível 🚀 <br>
+🔖 [Rodrigo Branas](https://youtube.com/c/RodrigoBranas) O canal é apresentado por Rodrigo Branas. Arquiteto de software, especialista no desenvolvimento de aplicações web há mais de 15 anos, autor do livro AngularJS Essentials, publicado pela editora PacktPub e de diversos artigos da revista Java Magazine. Além disso, é professor e palestrante, tendo participado da formação de mais de 1.000 desenvolvedores de software e apresentado mais de 100 palestras em eventos no Brasil e no exterior. Formado em Ciências da Computação na UFSC e MBA em Gerenciamento de Projetos na FGV, ao longo da carreira acumulou as certificações SCJA, SCJP, SCJD, SCWCD, SCBCD, pela Sun Microsystems, e também PMP, pelo Project Management Institute.  <br>
+🔖 [Academind](https://youtube.com/c/Academind) There's always something to learn!
+We (Max & Manuel) create courses and tutorials that teach you everything related to web development. No matter if it's programming languages like JavaScript, runtimes like NodeJS or popular frameworks like ReactJS, Angular or VueJS (and much more!). We got you covered. :-)  <br>
+🔖 [Simon Grimm](https://youtube.com/user/saimon1924) I'm Simon, creator of the Ionic Academy and author of the Devdactic Blog. I help web developers build awesome mobile apps based on their existing skills 🔥  <br>
+🔖 [freeCodeCamp](https://youtube.com/c/Freecodecamp) Learn to code for free. <br>
+🔖 [Santos Enoque](https://youtube.com/c/SantosEnoque)the main goal of this channel is to teach people how to build real world softwares and make sure that they have skills that are actually needed on the market <br>
+🔖 [Raja Yogan](https://youtube.com/channel/UCjBxAm226XZvgrkO-JyjJgQ) Providing quality tech tutorials for everyone. <br>
+🔖 [DesignCourse](https://youtube.com/c/DesignCourse) I've created close to 100 courses from graphic design to advanced frontend development. I've worked with Envato Network's TutsPlus.com, DigitalTutors.com, Pluralsight.com, LinkedIn Learning & Lynda.com. <br>
+🔖 [London App Brewery](https://youtube.com/c/Londonappbrewery) We teach complete beginners Web Development, how to make iOS, Flutter and Android apps, as well as Data Science. Are you someone who wants to master coding as a new skill? Do you want to upskill and get that promotion? Or do you want to quit your job and work for yourself? <br>
+🔖 [EDMT Dev](https://youtube.com/c/eddydn71) This is where i will publish the video tutorial for coding , hacking...etc<br>
+🔖 [Loiane Groner](https://youtube.com/c/loianegroner) Canal com aulas gratuitas sobre Java, Sencha (Ext JS), JavaScript, Angular e desenvolvimento mobile com Cordova e Ionic.  <br>
+🔖 [Canal dotNET](https://youtube.com/c/CanalDotNET) <br>
+🔖 [Mario Souto - Dev Soutinho](https://youtube.com/c/DevSoutinho) aqui você vai ver vídeos novos sobre o mundo da programação<br>
+🔖 [Fabio Akita](https://youtube.com/c/FabioAkita1990) Este é o canal "AKITANDO" onde eu, Fabio Akita, também conhecido como @AkitaOnRails vou falar dos assuntos que sempre gostei. Quem me acompanha no meu blog, e redes sociais como Facebook, Twitter e Instagram já tem uma idéia do que esperar daqui. <br>
+🔖 [Marcelo Rodrigues](https://www.youtube.com/channel/UCwn-9qpyukBnuA3eB-3F0Sg) A Internet é uma enorme fonte de informações sobre TI (tecnologia da informação), porém na maioria das vezes esses tutoriais e explicações são apresentadas de forma muito complexa. Neste canal procuramos apresentar essas informações de forma simples e fácil de entender.  <br>
+🔖 [Vida de Programador](https://www.youtube.com/c/ProgramadorREAL) Canal de entretenimento, focado em tecnologia, programação e humor! Sinta-se à vontade, pode tirar o sapato e colocar o pé na mesa!<br>
+🔖 [ProfessorRamos](https://www.youtube.com/c/professorramos/) Compartilhar o Conhecimento de Informática na Internet de forma descontraida e simples através de Vídeo Aula (Tutoriais) com os mais variados temas como Sistema Operacional, REDES, Servidores, 2008 Server, 2003 Server, LINUX, Redes, Hardware, Segurança, Aplicativos, Excel, Windows 7, Windows 8, Windows 2012, Network, Criptografia, Setup, Montagem, Manutenção, Notebook, Hirens Boot, Packet Tracer, Cisco CCNA, Certificações, Microsoft, MCP, 2008 Server, 2008 R2, Atualização, SO, GPO, Servidor de Arquivos, DHCP, DNS, WEB, Files, MCP, MCSE, CCNA, CISCO Senhas, entre outras <br>
+🔖 [Professor José de Assis](https://www.youtube.com/c/RoboticapraticaBr/) Você faz. Você vê. Você aprende.
+Aqui você encontra projetos, tutoriais, cursos e conteúdo de qualidade nas áreas de Programação, Linux, Robótica Educacional e Arduino. <br>
+🔖 [Rafaella Ballerini](https://www.youtube.com/user/RafaellaBallerini/) Ex estudante de medicina apaixonada por programação e tech que hoje ensina milhares de pessoas a se tornarem dev 👩🏻‍💻 <br>
+🔖 [Tech Primers](https://www.youtube.com/channel/UCB12jjYsYv-eipCvBDcMbXw) TechPrimers is an educational channel to provide insights on technology implementations.
+⌨️ The topics of interest include DevOps Cloud, Architecture, Tips & tricks, etc., <br>
+🔖 [Descompila](https://www.youtube.com/c/Descompila/) Desde 2012 criando vídeo-aulas de programação objetivas, direto ao ponto, sem enrolação e encheção de linguiça, para mais de 10.000 pessoas. Procuro promover a democratização do conhecimento de TI, passando tudo que aprendi fuçando pela web, lendo documentações, resolvendo problemas e criando coisas novas. Quero mostrar o caminho para você caminhar com as próprias pernas, e não apenas copiar códigos de vídeo aulas, mas saber cada passo que está sendo dado.  <br>
+🔖 [UnicornCoder](https://www.youtube.com/c/UnicornCoder/)Welcome!!!
+Community Organizer , Instructor and speaker, I was born and live in São Paulo.
+Here you can find a little knowledge and what I do for the technological world.  <br>
+🔖 [TekZoom](https://www.youtube.com/c/CanalTekZoom/) O canal do TekZoom surgiu para compartilhar conteúdos sobre tecnologia, programação, gadgets, notebooks, chromebooks e dispositivos móveis, como smartphones e tablets. <br>
+🔖 [Bonieky Lacerda](https://www.youtube.com/c/BoniekyLacerdaLeal)  <br>
+🔖 [Programador BR](https://www.youtube.com/c/Programadorbr) O lugar certo para quem quer saber sobre programação, carreira e empreendedorismo. Não necessariamente nesta ordem. <br>
+🔖 [Programador Br - Tutoriais](https://www.youtube.com/c/ProgramadorBrTutoriais) O lugar certo para quem quer saber sobre programação, carreira e empreendedorismo. Não necessariamente nesta ordem. <br>
+🔖 [Zup](https://www.youtube.com/c/ZUPIT/) Desenvolvemos uma stack de tecnologia para melhorar a developer experience, facilitando e diminuindo o tempo entre a concepção de uma ideia e o código em produção. Trazendo ainda mais eficiência para profissionais de desenvolvimento e times de tecnologia. <br>
+🔖 [Beer and Code](https://www.youtube.com/c/BeerandCode/)  <br>
+🔖 [Attekita Dev](https://www.youtube.com/c/AttekitaDev/)  Trabalha como desenvolvedora iOS há 8 anos e possui mais de 20 aplicativos publicados na App Store. Atualmente atua na X-team e compartilha conteúdo no canal Attekita Dev onde impacta em suas redes mais de 60 mil pessoas. <br>
+🔖 [Web Dev Simplified](https://www.youtube.com/c/WebDevSimplified/) Web Dev Simplified is all about teaching web development skills and techniques in an efficient and practical manner. If you are just getting started in web development Web Dev Simplified has all the tools you need to learn the newest and most popular technologies to convert you from a no stack to full stack developer. Web Dev Simplified also deep dives into advanced topics using the latest best practices for you seasoned web developers.  <br>
+🔖 [Alura Cursos Online](https://www.youtube.com/c/Alura/)Tudo sobre tecnologia em um só lugar! Com vídeos e lives toda semana, discutimos sobre a área, suas possibilidades e ferramentas mergulhando cada vez mais no universo da programação e tecnologia. 💻  <br>
 
 ## 📚 BLOGS E PODCASTS:
 
-🔖 https://devnaestrada.com.br/ <br>
-🔖 https://dicasdeprogramacao.com.br/ <br>
-🔖 https://podprogramar.com.br/ <br>
-🔖 https://hipsters.tech/ <br>
-🔖 https://www.linuxtips.io/ <br>
-🔖 https://www.etudonuve.com.br/i/ <br>
-🔖 https://dev.to/ <br>
-🔖 https://deploy.codenation.com.br/podcasts/home <br>
-🔖 https://playcode.com.br/ <br>
-🔖 https://open.spotify.com/show/07cPNODgBHWh2JMkHbZxXG <br>
-🔖 https://blog.corujadeti.com.br/ <br>
-🔖 https://cooperati.com.br/ <br>
-🔖 https://www.zup.com.br/blog <br>
+🔖 [Dev na estrada](https://devnaestrada.com.br/) <br>
+🔖 [Dicas de programação](https://dicasdeprogramacao.com.br/) <br>
+🔖 [PodProgramar](https://podprogramar.com.br/) <br>
+🔖 [Hipsters ponto tech](https://hipsters.tech/) <br>
+🔖 [Linux Tips](https://www.linuxtips.io/) <br>
+🔖 [Dev.to](https://dev.to/) <br>
+🔖 [Daily dev](https://daily.dev/) <br>
+🔖 [Codenation](https://deploy.codenation.com.br/podcasts/home) <br>
+🔖 [Playcode](https://playcode.com.br/) <br>
+🔖 [Ambev Tech Talk](https://open.spotify.com/show/07cPNODgBHWh2JMkHbZxXG) <br>
+🔖 [Coruja de TI](https://blog.corujadeti.com.br/) <br>
+🔖 [Coopera TI](https://cooperati.com.br/) <br>
+🔖 [Zup](https://www.zup.com.br/blog) <br>
 
 ## 📚 WEB DEVELOPER ROADMAP:
 
-🔖 https://github.com/kamranahmedse/developer-roadmap <br>
+🔖 [kamranahmedse - developer-roadmap](https://github.com/kamranahmedse/developer-roadmap) <br>
 
 ## 📚 EXTENSÕES PARA O SEU NAVEGADOR:
 
-🔖 File Icons for GitHub and GitLab <br>
-🔖 GoFullPage <br>
-🔖 Web Developer <br>
-🔖 React Developer Tools <br>
-🔖 Window Resizer <br>
+🔖 File Icons for GitHub and GitLab - A simple browser tool changes file's icon on GitHub, GitLab, gitea and gogs. <br>
+🔖 GoFullPage - Capture a screenshot of your current page in entirety and reliably—without requesting any extra permissions! (firefox já faz isso, sem precisar de extensão 😊) <br>
+🔖 Web Developer - Adds a toolbar button with various web developer tools.<br>
+🔖 React Developer Tools - Adds React debugging tools to the Chrome Developer Tools. <br>
+🔖 Window Resizer - Easily set the layout (size & position) of your browser window<br>
 
 ## 📚 RECOMENDAÇÃO DE LIVROS:
 
@@ -303,137 +296,124 @@ Get Inspiration, find Templates or browse Resources.<br>
 
 ## 📚 APPS PARA PRATICAR PROGRAMAÇÃO:
 
-🔖 SoloLearn <br>
-🔖 Pydriod3 <br>
-🔖 Mimo <br>
-🔖 Dcoder <br>
-🔖 Codecademy <br>
+🔖 [SoloLearn](https://www.sololearn.com/home) <br>
+🔖 [Mimo](https://getmimo.com/) <br>
+🔖 [Dcoder](https://dcoder.tech/) <br>
+🔖 [Codecademy Go](https://play.google.com/store/apps/details?id=com.ryzac.codecademygo&hl=pt_BR&gl=US)  <br>
 
 ## 📚 SITES PARA TREINAR PROJETOS FRONT-END (MONTAR PORTFOLIO):
 
-🔖 https://www.frontendmentor.io/ <br>
-🔖 https://codier.io/ <br>
-🔖 https://codewell.cc/ <br>
-🔖 https://devchallenge.com.br/ <br>
-🔖 https://codepen.io/challenges <br>
+🔖 [Frontend Mentor](https://www.frontendmentor.io/) Solve real-world HTML, CSS and JavaScript challenges whilst working to professional designs. Join 434.099 developers building projects, reviewing code, and helping each other get better.<br>
+🔖 [Codier](https://codier.io/) Explore and attempt front-end coding challenges.<br>
+🔖 [Codewell](https://codewell.cc/) With Codewell, you can browse high quality Figma templates that you can use to sharpen your HTML and CSS skills. <br>
+🔖 [DevChallenge](https://devchallenge.com.br/) Melhore suas habilidades com desafios de front-end, back-end e mobile <br>
+🔖 [Codepen Challenges](https://codepen.io/challenges) Challenges are fun opportunities for leveling up your skills by building things. Each week, you’ll get a new prompt surrounding a monthly theme to riff on. The best Pens get picked and featured on the homepage! <br>
 
 ## 📚 SITES PARA TREINAR PROJETOS BACK-END:
 
-🔖 https://devchallenge.vercel.app/challenges?type=backend <br>
+🔖 [DevChallenge](https://devchallenge.vercel.app/challenges?type=backend) Melhore suas habilidades Com desafios de front-end, back-end e mobile <br>
 
 ## 📚 SITES PARA TREINAR PROJETOS MOBILE:
 
-🔖 https://devchallenge.vercel.app/challenges?type=mobile <br>
+🔖 [DevChallenge](https://devchallenge.vercel.app/challenges?type=mobile) Melhore suas habilidades Com desafios de front-end, back-end e mobile <br>
 
-## 📚 IDEIAS PARA PROJETO:
+## 📚 IDEIAS PARA PROJETOS:
 
-🔖 https://github.com/florinpop17/app-ideas <br>
+🔖 [App Ideas](https://github.com/florinpop17/app-ideas) <br>
 
 ## 📚 CURSOS DE JAVA:
 
-🔖 Java Tutorial for Beginners: https://www.youtube.com/watch?v=eIrMbAQSU34  <br>
-🔖 Maratona Java: https://youtu.be/VKjFuX91G5Q <br>
-🔖 Learn Java 8 Full Course in 9 Hours: https://www.youtube.com/watch?v=grEKMHGYyns <br>
-🔖 Java Programming: https://www.youtube.com/playlist?list=PLBlnK6fEyqRjKA_NuK9mHmlk0dZzuP1P5 <br>
-🔖 Frameworks de Java: https://www.codigofonte.com.br/artigos/os-dez-melhores-frameworks-java-do-mercado <br>
-🔖 Java Full Course: https://www.youtube.com/watch?v=xk4_1vDrzzo <br>
-🔖 Curso de Java: https://youtube.com/playlist?list=PLHz_AreHm4dkI2ZdjTwZA4mPMxWTfNSpR <br>
-🔖 Curso de Java 2: https://youtube.com/playlist?list=PLGxZ4Rq3BOBq0KXHsp5J3PxyFaBIXVs3r <br>
-🔖 Curso de Java 3: https://youtube.com/playlist?list=PLucm8g_ezqNrQmqtO0qmew8sKXEEcaHvc <br>
-
-## 📚 CURSO DE JAVA SCRIPT:
-
-🔖 Curso completo de Javascript (46 aulas): https://goo.gl/zfjfkQ <br>
-🔖 Curso de introdução ao Java script: https://youtu.be/i6Oi-YtXnAU <br>
-🔖 Curso Java script básico: https://youtube.com/playlist?list=PLntvgXM11X6pi7mW0O4ZmfUI1xDSIbmTm  <br>
-🔖 Curso Java Script: https://youtube.com/playlist?list=PLx4x_zx8csUj3IbPQ4_X5jis_SkCol3eC <br>
-🔖 Att Java Script: https://www.rodrigobrito.dev.br/blog/js-0701-javascript-completo-es6-classes <br>
-🔖 JavaScript: https://www.youtube.com/watch?v=8GPPJpiLqHk <br>
-🔖 JavaScript 2: https://www.youtube.com/watch?v=dtKciwk_si4 <br>
-🔖 JavaScript 3: https://www.youtube.com/watch?v=PkZNo7MFNFg <br>
-🔖 JavaScript 4: https://www.youtube.com/watch?v=jS4aFq5-91M <br>
-🔖 JavaScript 5: https://www.youtube.com/watch?v=EfAl9bwzVZk <br>
-🔖 Cursos de JavaScript em inglês: https://www.youtube.com/playlist?list=PLRAV69dS1uWSxUIk5o3vQY2-_VKsOpXLD <br>
-🔖 Faça 15 Projetos em JavaScript (Inglês): https://www.youtube.com/watch?v=3PHXvlpOkf4 <br>
-🔖 Playlist de projetos de JS: https://www.youtube.com/playlist?list=PLajjpPyc2dmbt0KebBvT9VQV8y2R_IO7j <br>
-🔖 Fundamentos de JavaScript Funcional: https://www.cod3r.com.br/courses/javascript-funcional-fundamentos <br>
+🔖 [Programming with Mosh - Java Tutorial for Beginners](https://www.youtube.com/watch?v=eIrMbAQSU34)  <br>
+🔖 [Maratona Java Virado no Jiraya](https://www.youtube.com/watch?v=VKjFuX91G5Q&list=PL62G310vn6nFIsOCC0H-C2infYgwm8SWW) <br>
+🔖 [FreeCodeCamp - Learn Java 8 Full Tutorial for Beginers](https://www.youtube.com/watch?v=grEKMHGYyns) <br>
+🔖 [Neso Academy - Java Programming](https://www.youtube.com/playlist?list=PLBlnK6fEyqRjKA_NuK9mHmlk0dZzuP1P5) <br>
+🔖 [Código Fonte - Os dez melhores Frameworks Java do Mercado](https://www.codigofonte.com.br/artigos/os-dez-melhores-frameworks-java-do-mercado) <br>
+🔖 [Bro Code - Free Java Course for Beginners](https://www.youtube.com/watch?v=xk4_1vDrzzo)<br>
+🔖 [Curso em Vídeo - Curso de Java para Iniciantes - Grátis, Completo e com Certificado](https://youtube.com/playlist?list=PLHz_AreHm4dkI2ZdjTwZA4mPMxWTfNSpR) <br>
+🔖 [Loiane Groner - Curso de Java Básico Gratuito com Certificado](https://youtube.com/playlist?list=PLGxZ4Rq3BOBq0KXHsp5J3PxyFaBIXVs3r) <br>
+🔖 [Bóson Treinamentos - Curso de Programação em Java](https://youtube.com/playlist?list=PLucm8g_ezqNrQmqtO0qmew8sKXEEcaHvc) <br>
 
 ## 📚 CURSO DE HTML & CSS:
 
-🔖 Curso em video: https://github.com/gustavoguanabara/html-css <br>
-🔖 Curso completo e atual de HTML5 e CSS3 - Módulo 1 de 5: https://www.youtube.com/playlist?list=PLHz_AreHm4dkZ9-atkcmcBaMZdmLHft8n <br>
-🔖 Curso completo e atual de HTML5 e CSS3 - Módulo 2 de 5: https://www.youtube.com/playlist?list=PLHz_AreHm4dlUpEXkY1AyVLQGcpSgVF8s <br>
-🔖 Curso completo e atual de HTML5 e CSS3 - Módulo 3 de 5: https://www.youtube.com/playlist?list=PLHz_AreHm4dmcAviDwiGgHbeEJToxbOpZ <br>
-🔖 Rocketseat HTML: https://app.rocketseat.com.br/node/o-guia-estelar-de-html <br>
-🔖 HTML 5 Curso 1: https://youtube.com/playlist?list=PLx4x_zx8csUiVHRDO_7qhOaeNrrQ5uU8c <br>
-🔖 HTML 5 Curso 2: https://youtube.com/playlist?list=PLHz_AreHm4dlAnJ_jJtV29RFxnPHDuk9o <br>
-🔖 Curso Completo de HTML5 (42 aulas): https://goo.gl/SD4p4g: <br>
-🔖 Curso Aprenda HTML em 1 hora (22 aulas): https://goo.gl/1kfBCZ
+🔖 [Curso de HTML5 e CSS3 - Gustavo Guanabara](https://github.com/gustavoguanabara/html-css) <br>
+🔖 [Curso em Vídeo - Curso completo e atual de HTML5 e CSS3 - Módulo 1 de 5](https://www.youtube.com/playlist?list=PLHz_AreHm4dkZ9-atkcmcBaMZdmLHft8n) <br>
+🔖 [Curso em Vídeo - Curso completo e atual de HTML5 e CSS3 - Módulo 2 de 5](https://www.youtube.com/playlist?list=PLHz_AreHm4dlUpEXkY1AyVLQGcpSgVF8s) <br>
+🔖 [Curso em Vídeo - Curso completo e atual de HTML5 e CSS3 - Módulo 4 de 5](https://www.youtube.com/watch?v=zHKHMmEG9vE&list=PLHz_AreHm4dkcVCk2Bn_fdVQ81Fkrh6WT) <br>
+🔖 [Curso em Vídeo - Curso completo e atual de HTML5 e CSS3 - Módulo 4 de 5](https://www.youtube.com/watch?v=zHKHMmEG9vE&list=PLHz_AreHm4dkcVCk2Bn_fdVQ81Fkrh6WT) <br>
+🔖 [Rocketseat HTML](https://app.rocketseat.com.br/node/o-guia-estelar-de-html) <br>
+🔖 [CFBCursos - HTML Completo e Profissional, todas tags válidas de HTML5](https://youtube.com/playlist?list=PLx4x_zx8csUiVHRDO_7qhOaeNrrQ5uU8c) <br>
+🔖 [Curso em Vídeo - Curso de HTML5 Completo e GRÁTIS](https://youtube.com/playlist?list=PLHz_AreHm4dlAnJ_jJtV29RFxnPHDuk9o) <br>
+🔖 [Jornada do Dev - Curso completo de HTML5](https://goo.gl/SD4p4g) <br>
+🔖 [Jornada do Dev - Curso Aprenda HTML em 1 hora](https://goo.gl/1kfBCZ) <br>
+🔖 [Jornada do Dev - Curso Completo de CSS 3](https://goo.gl/ebjzVG) <br>
+🔖 [Jornada do Dev - Curso de CSS3 com Sass e Compass](https://goo.gl/bAO0hE ) <br>
+🔖 [Node Studio Treinamentos - Curso de CSS3](https://youtube.com/playlist?list=PLwXQLZ3FdTVGf7GUtiOFLc_9AXO25iIzG) <br>
+🔖 [Node Studio Treinamentos - HTML5 & CSS3 na Prática](https://www.youtube.com/playlist?list=PLwXQLZ3FdTVF_HYP5r1oR7vK1_7ZuTU78) <br>
+🔖 [CFBCursos - Curso de CSS - Curso completo de CSS3 a linguagem oficial de formatação de páginas web](https://youtube.com/playlist?list=PLx4x_zx8csUi47Bnugpk78nqJN6rYvEnV) <br>
+🔖 [Florin Pop - Building 10 Websites - From Design to HTML and CSS - Coding Challenge](https://www.youtube.com/watch?v=Rz-rey4Q1bw) <br>
+🔖 [BM - HTML + CSS Practice](https://www.youtube.com/playlist?list=PLgCTlR71eB4-ZGpajuh01zexg8f9Qd98z) <br>
+🔖 [Bikram Halder - Programming html and css Projects](https://www.youtube.com/playlist?list=PLai7Iw-TAFJr5IQ83rIo_iSUiWaiXen5G) <br>
+🔖 [WEB CIFAR - One Page Full Website Project For Practice | HTML & CSS Responsive Website](https://www.youtube.com/watch?v=ZFQkb26UD1Y) <br>
 
-🔖 CSS3
+## 📚 CURSO DE JAVA SCRIPT:
 
-🔖 Curso de CSS3 1: https://youtube.com/playlist?list=PLwXQLZ3FdTVGf7GUtiOFLc_9AXO25iIzG <br>
-🔖 Curso de CSS3 2: https://youtube.com/playlist?list=PLx4x_zx8csUi47Bnugpk78nqJN6rYvEnV <br>
-🔖 Curso de CSS3 3: https://www.youtube.com/playlist?list=PLwXQLZ3FdTVF_HYP5r1oR7vK1_7ZuTU78
-🔖 Curso de CSS3 4: https://www.youtube.com/watch?v=FRhM6sMOTfg&list=PLwXQLZ3FdTVGf7GUtiOFLc_9AXO25iIzG&ab_channel=NodeStudioTreinamentos <br>
-🔖 Curso de CSS3 5: https://www.youtube.com/watch?v=Rz-rey4Q1bw&t=10659s <br>
-Playlist de prática de HTML & CSS: <br>
-🔖 Curso de CSS3 6: https://www.youtube.com/playlist?list=PLgCTlR71eB4-ZGpajuh01zexg8f9Qd98z <br>
-🔖 Curso de CSS3 7: https://www.youtube.com/playlist?list=PLai7Iw-TAFJr5IQ83rIo_iSUiWaiXen5G <br>
-🔖 Curso de CSS3 8: https://www.youtube.com/watch?v=ZFQkb26UD1Y <br>
-🔖 Curso Aprenda HTML em 1 hora (22 aulas): https://goo.gl/1kfBCZ <br>
-🔖 Curso completo de CSS3 (22 aulas): https://goo.gl/ebjzVG <br>
-🔖 Curso de CSS3 com Sass e Compass (9 aulas): https://goo.gl/bAO0hE <br>
+🔖 [Jornada do Dev - Curso completo de Javascript](https://goo.gl/zfjfkQ) <br>
+🔖 [Dev Aprender - Curso Javascript Completo 2020 [Iniciantes] + 14 Mini-Projetos](https://youtu.be/i6Oi-YtXnAU) <br>
+🔖 [Jorge Clênio - Curso em Vídeo - JavaScript](https://youtube.com/playlist?list=PLntvgXM11X6pi7mW0O4ZmfUI1xDSIbmTm)  <br>
+🔖 [CFBCursos - Curso de Javascript - Para quem quer aprender Javascript de verdade de forma objetiva e clara](https://youtube.com/playlist?list=PLx4x_zx8csUj3IbPQ4_X5jis_SkCol3eC) <br>
+🔖 [Florin Pop - 10 JavaScript Projects in 1 Hour - Coding Challenge ](https://www.youtube.com/watch?v=8GPPJpiLqHk) <br>
+🔖 [FreeCodeCamp - Learn JavaScript - Full Course for Beginners](https://www.youtube.com/watch?v=PkZNo7MFNFg) <br>
+🔖 [FreeCodeCamp - JavaScript Programming - Full Course](https://www.youtube.com/watch?v=jS4aFq5-91M) <br>
+🔖 [Dave Gray - JavaScript Full Course for Beginners | Complete All-in-One Tutorial | 8 Hours](https://www.youtube.com/watch?v=EfAl9bwzVZk) <br>
+🔖 [Hitesh Choudhary - Javascript course](https://www.youtube.com/playlist?list=PLRAV69dS1uWSxUIk5o3vQY2-_VKsOpXLD) <br>
+🔖 [FreeCodeCamp - Build 15 JavaScript Projects - Vanilla JavaScript Course](https://www.youtube.com/watch?v=3PHXvlpOkf4) <br>
+🔖 [Ikenna okonkwo - Javascript Real world Projects](https://www.youtube.com/playlist?list=PLajjpPyc2dmbt0KebBvT9VQV8y2R_IO7j) <br>
+🔖 [Cod3r - Fundamentos de JavaScript Funcional](https://www.cod3r.com.br/courses/javascript-funcional-fundamentos) <br>
 
 ## 📚 CURSO DE PYTHON: 
 
-🔖 Curso de Python 1: https://youtube.com/playlist?list=PLvE-ZAFRgX8hnECDn1v9HNTI71veL3oW0 <br>
-🔖 Curso de Python 2: https://youtube.com/playlist?list=PLfCKf0-awunOu2WyLe2pSD2fXUo795xRe <br>
-🔖 Curso de Python 3: https://www.youtube.com/watch?v=XKHEtdqhLK8 <br>
-🔖 Curso de Python 4: https://www.youtube.com/watch?v=_uQrJ0TkZlc <br>
-🔖 Curso de Python 5: https://www.youtube.com/watch?v=rfscVS0vtbw <br>
-🔖 Curso de Python 6: https://www.youtube.com/watch?v=8DvywoWv6fI <br>
-🔖 Curso de Python 7: https://www.youtube.com/playlist?list=PLsyeobzWxl7poL9JTVyndKe62ieoN-MZ3 <br>
-🔖 Curso de Python 8: https://www.youtube.com/watch?v=t8pPdKYpowI <br>
-🔖 Curso de Python 9: https://www.youtube.com/playlist?list=PLwgFb6VsUj_lQTpQKDtLXKXElQychT_2j <br>
-🔖 Curso de Python 10: https://solyd.com.br/treinamentos/python-basico/?fbclid=IwAR0WJYyqSTr2E28c2dvqL6HnIfb2DiA1aAB40khxKwFc6L197DfZTK7iQ7k <br>
-
-🔖 PYTHON 3 COMPLETO CURSO EM VIDEO: <br>
-🔖 Curso de Python 3 - Mundo 1: Fundamentos: https://www.youtube.com/playlist?list=PLHz_AreHm4dlKP6QQCekuIPky1CiwmdI6 <br>
-🔖 Curso de Python 3 - Mundo 2: Estruturas de Controle: https://www.youtube.com/playlist?list=PLHz_AreHm4dk_nZHmxxf_J0WRAqy5Czye <br>
-🔖 Curso de Python 3 - Mundo 3: Estruturas Compostas: https://www.youtube.com/playlist?list=PLHz_AreHm4dksnH2jVTIVNviIMBVYyFnH  <br>
-🔖 Exercícios de Python 3: https://www.youtube.com/playlist?list=PLHz_AreHm4dm6wYOIW20Nyg12TAjmMGT- <br>
-🔖 Python 3 - Curso Rápido: https://www.cod3r.com.br/courses/python-3-curso-rapido <br>
+🔖 [Joao Pedro Loyola - Curso em vídeo - Python](https://www.youtube.com/playlist?list=PLvE-ZAFRgX8hnECDn1v9HNTI71veL3oW0) <br>
+🔖 [Ignorância Zero - Aulas Python](https://www.youtube.com/playlist?list=PLfCKf0-awunOu2WyLe2pSD2fXUo795xRe) <br>
+🔖 [Bro Code - Free Python Course for Beginners](https://www.youtube.com/watch?v=XKHEtdqhLK8) <br>
+🔖 [Programming with Mosh - Python Tutorial - Python Full Course for Beginners](https://www.youtube.com/watch?v=_uQrJ0TkZlc) <br>
+🔖 [FreeCodeCamp - Learn Python - Full Course for Beginners Tutorial](https://www.youtube.com/watch?v=rfscVS0vtbw) <br>
+🔖 [FreeCodeCamp - Python for Everybody - Full University Python Course](https://www.youtube.com/watch?v=8DvywoWv6fI) <br>
+🔖 [Telusko - Python for Beginners (Full Course) | Programming Tutorial](https://www.youtube.com/playlist?list=PLsyeobzWxl7poL9JTVyndKe62ieoN-MZ3) <br>
+🔖 [TechWorld with Nana - Python Tutorial for Beginners - Learn Python in 5 Hours](https://www.youtube.com/watch?v=t8pPdKYpowI) <br>
+🔖 [Solyd - Python Básico](https://solyd.com.br/treinamentos/python-basico/?fbclid=IwAR0WJYyqSTr2E28c2dvqL6HnIfb2DiA1aAB40khxKwFc6L197DfZTK7iQ7k) <br>
+🔖 [Curso em Vídeo - Curso de Python 3 - Mundo 1: Fundamentos](https://www.youtube.com/playlist?list=PLHz_AreHm4dlKP6QQCekuIPky1CiwmdI6) <br>
+🔖 [Curso em Vídeo - Curso de Python 3 - Mundo 2: Estruturas de Controle](https://www.youtube.com/playlist?list=PLHz_AreHm4dk_nZHmxxf_J0WRAqy5Czye) <br>
+🔖 [Curso em Vídeo - Curso de Python 3 - Mundo 3: Estruturas Compostas](https://www.youtube.com/playlist?list=PLHz_AreHm4dksnH2jVTIVNviIMBVYyFnH) <br>
+🔖 [Curso em Vídeo - Exercícios de Python 3](https://www.youtube.com/playlist?list=PLHz_AreHm4dm6wYOIW20Nyg12TAjmMGT-) <br>
+🔖 [Cod3r - Python 3 - Curso Rápido [2020]](https://www.cod3r.com.br/courses/python-3-curso-rapido) <br>
 
 ## 📚 CURSO DE PHP: 
 
-🔖 Curso de PHP 1: https://youtube.com/playlist?list=PLwXQLZ3FdTVEITn849NlfI9BGY-hk1wkq <br>
-🔖 Curso de PHP 2: https://youtube.com/playlist?list=PLHz_AreHm4dm4beCCCmW4xwpmLf6EHY9k <br>
-🔖 Curso Básico de PHP (20 aulas): https://goo.gl/wLra9o <br>
-🔖 Curso Completo de PHP (108 aulas): https://goo.gl/1th6ok <br>
-
+🔖 [Node Studio Treinamentos - Curso de PHP](https://www.youtube.com/playlist?list=PLwXQLZ3FdTVEITn849NlfI9BGY-hk1wkq) <br>
+🔖 [Curso em Vídeo - Curso de PHP para Iniciantes](https://www.youtube.com/playlist?list=PLHz_AreHm4dm4beCCCmW4xwpmLf6EHY9k) <br>
+🔖 [Jornada do Dev - Curso de PHP para inciantes](https://jornadadodev.com.br/cursos/curso-de-php-para-inciantes) <br>
+🔖 [Jornada do Dev - Curso completo de PHP](https://jornadadodev.com.br/cursos/curso-completo-de-php) <br>
 
 ## 📚 CURSO DE C#:
 
-🔖 Curso de  C#: https://youtube.com/playlist?list=PLx4x_zx8csUglgKTmgfVFEhWWBQCasNGi
+🔖 [CFB Cursos - Curso de Programação C#](https://www.youtube.com/playlist?list=PLx4x_zx8csUglgKTmgfVFEhWWBQCasNGi) <br>
 
 ## 📚 CURSO DE C:
 
-🔖 Curso de  C 1: https://youtube.com/playlist?list=PLesCEcYj003SwVdufCQM5FIbrOd0GG1M4 <br>
-🔖 Curso de  C 2: https://www.youtube.com/playlist?list=PL_c9BZzLwBRKKqOc9TJz1pP0ASrxLMtp2 <br>
-🔖 Curso de  C 3: https://www.youtube.com/playlist?list=PLBlnK6fEyqRggZZgYpPMUxdY1CYkZtARR <br>
-🔖 Curso de  C 4: https://www.youtube.com/playlist?list=PLD28639E2FFC4B86A <br>
-🔖 Curso de  C 5: https://www.youtube.com/playlist?list=PL78280D6BE6F05D34 <br>
-🔖 Curso de  C 6: https://www.youtube.com/playlist?list=PLa75BYTPDNKZWYypgOFEsX3H2Mg-SzuLW <br>
-🔖 Curso de  C 7: https://www.youtube.com/playlist?list=PLesCEcYj003SwVdufCQM5FIbrOd0GG1M4 <br>
-🔖 Curso de  C 8: https://www.youtube.com/playlist?list=PLGgRtySq3SDMLV8ee7p-rA9y032AU3zT8 <br>
-🔖 Curso de  C 9: https://www.youtube.com/playlist?list=PL8iN9FQ7_jt4DJbeQqv--jpTy-2gTA3Cp <br>
-🔖 Curso de  C 10: https://www.youtube.com/playlist?list=PLucm8g_ezqNqzH7SM0XNjsp25AP0MN82R <br>
-🔖 Curso de  C 11: https://www.youtube.com/playlist?list=PLIfZMtpPYFP5qaS2RFQxcNVkmJLGQwyKE <br>
-🔖 Curso de  C 12: https://www.youtube.com/playlist?list=PLxMw67OGLa0kW_TeweK2-9gXRlMLYzC1o <br>
-🔖 Curso de  C 13: https://www.youtube.com/playlist?list=PLZ8dBTV2_5HTGGtrPxDB7zx8J5VMuXdob <br>
-🔖 Curso de  C 14: https://www.youtube.com/playlist?list=PL9PzDKD_B1nNpJxJ9kKFEWtN7Uzk6RpFa <br>
-🔖 Curso de  C 15: https://www.youtube.com/playlist?list=PL21rh82DRnmobAWFir6DxPuTOa82myc8_
+🔖 [eXcript - Curso de C](https://www.youtube.com/playlist?list=PLesCEcYj003SwVdufCQM5FIbrOd0GG1M4) <br>
+🔖 [Caleb Curry - C Programming Tutorials](https://www.youtube.com/playlist?list=PL_c9BZzLwBRKKqOc9TJz1pP0ASrxLMtp2) <br>
+🔖 [Neso Academy - C Programming](https://www.youtube.com/playlist?list=PLBlnK6fEyqRggZZgYpPMUxdY1CYkZtARR) <br>
+🔖 [Nazook Ahamed - Stanford C programming](https://www.youtube.com/playlist?list=PLD28639E2FFC4B86A) <br>
+🔖 [thenewboston - C Programming Tutorials](https://www.youtube.com/playlist?list=PL78280D6BE6F05D34) <br>
+🔖 [De aluno para aluno - Linguagem C](https://www.youtube.com/playlist?list=PLa75BYTPDNKZWYypgOFEsX3H2Mg-SzuLW) <br>
+🔖 [One Day Code - Curso de Linguagem C para Iniciantes](https://www.youtube.com/playlist?list=PLGgRtySq3SDMLV8ee7p-rA9y032AU3zT8) <br>
+🔖 [Programação Descomplicada - Linguagem C Descomplicada](https://www.youtube.com/playlist?list=PL8iN9FQ7_jt4DJbeQqv--jpTy-2gTA3Cp) <br>
+🔖 [Bóson Treinamentos - Curso de Programação em Linguagem C](https://www.youtube.com/playlist?list=PLucm8g_ezqNqzH7SM0XNjsp25AP0MN82R) <br>
+🔖 [Papo Binário - Programação Moderna em C](https://www.youtube.com/playlist?list=PLIfZMtpPYFP5qaS2RFQxcNVkmJLGQwyKE) <br>
+🔖 [Edson F. da Fonseca - Curso de Programação 3 (C Avançado)](https://www.youtube.com/playlist?list=PLxMw67OGLa0kW_TeweK2-9gXRlMLYzC1o) <br>
+🔖 [WR Kits - Curso de Linguagem C (ANSI)](https://www.youtube.com/playlist?list=PLZ8dBTV2_5HTGGtrPxDB7zx8J5VMuXdob) <br>
+🔖 [EscolaTi - Curso de Algoritmo e Lógica de Programação em C](https://www.youtube.com/playlist?list=PL9PzDKD_B1nNpJxJ9kKFEWtN7Uzk6RpFa) <br>
+🔖 [strength force - Linguagem c](https://www.youtube.com/playlist?list=PL21rh82DRnmobAWFir6DxPuTOa82myc8_) <br>
 
 ## 📚 CURSO C++
 
