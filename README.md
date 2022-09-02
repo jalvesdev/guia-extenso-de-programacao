@@ -338,7 +338,7 @@ Here you can find a little knowledge and what I do for the technological world. 
 🔖 [Curso de HTML5 e CSS3 - Gustavo Guanabara](https://github.com/gustavoguanabara/html-css) <br>
 🔖 [Curso em Vídeo - Curso completo e atual de HTML5 e CSS3 - Módulo 1 de 5](https://www.youtube.com/playlist?list=PLHz_AreHm4dkZ9-atkcmcBaMZdmLHft8n) <br>
 🔖 [Curso em Vídeo - Curso completo e atual de HTML5 e CSS3 - Módulo 2 de 5](https://www.youtube.com/playlist?list=PLHz_AreHm4dlUpEXkY1AyVLQGcpSgVF8s) <br>
-🔖 [Curso em Vídeo - Curso completo e atual de HTML5 e CSS3 - Módulo 4 de 5](https://www.youtube.com/watch?v=zHKHMmEG9vE&list=PLHz_AreHm4dkcVCk2Bn_fdVQ81Fkrh6WT) <br>
+🔖 [Curso em Vídeo - Curso completo e atual de HTML5 e CSS3 - Módulo 3 de 5](https://www.youtube.com/watch?v=zHKHMmEG9vE&list=PLHz_AreHm4dkcVCk2Bn_fdVQ81Fkrh6WT) <br>
 🔖 [Curso em Vídeo - Curso completo e atual de HTML5 e CSS3 - Módulo 4 de 5](https://www.youtube.com/watch?v=zHKHMmEG9vE&list=PLHz_AreHm4dkcVCk2Bn_fdVQ81Fkrh6WT) <br>
 🔖 [Rocketseat HTML](https://app.rocketseat.com.br/node/o-guia-estelar-de-html) <br>
 🔖 [CFBCursos - HTML Completo e Profissional, todas tags válidas de HTML5](https://youtube.com/playlist?list=PLx4x_zx8csUiVHRDO_7qhOaeNrrQ5uU8c) <br>
@@ -369,6 +369,7 @@ Here you can find a little knowledge and what I do for the technological world. 
 🔖 [FreeCodeCamp - Build 15 JavaScript Projects - Vanilla JavaScript Course](https://www.youtube.com/watch?v=3PHXvlpOkf4) <br>
 🔖 [Ikenna okonkwo - Javascript Real world Projects](https://www.youtube.com/playlist?list=PLajjpPyc2dmbt0KebBvT9VQV8y2R_IO7j) <br>
 🔖 [Cod3r - Fundamentos de JavaScript Funcional](https://www.cod3r.com.br/courses/javascript-funcional-fundamentos) <br>
+🔖 [freeCodeCamp - JavaScript Game Development Course for Beginners](https://www.youtube.com/watch?v=GFO_txvwK_c) <br>
 
 ## 📚 CURSO DE PYTHON: 
 
